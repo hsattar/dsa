@@ -1,0 +1,26 @@
+{
+  "name": "dsa",
+  "version": "1.0.0",
+  "description": "Data Structures &amp; Algorithms",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "dsa",
+    "data Structures",
+    "algorithms"
+  ],
+  "author": "Hasan Sattar (https://github.com/hsattar)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hsattar/dsa.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hsattar/dsa/issues"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
