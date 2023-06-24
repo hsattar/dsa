@@ -1,17 +1,3 @@
-interface IQueue {
-    quantity: number
-    maxSize: number
-    front: number
-    back: number
-    storage: any
-    getQuantity: () => number
-    enQueue: (item: any) => void
-    deQueue: () => any
-    isEmpty: () => boolean
-    isFull: () => boolean
-    peek: () => any
-}
-
 export function createQueue (maxSize: number) {
     let quantity = 0
     
@@ -67,4 +53,18 @@ function checkIfFull () {
 
 function checkFirstItem () {
     return this.storage[this.front]
+}
+
+interface IQueue {
+    quantity: number
+    maxSize: number
+    front: number
+    back: number
+    storage: any
+    getQuantity: () => number
+    enQueue: (item: any) => void
+    deQueue: () => any
+    isEmpty: () => boolean
+    isFull: () => boolean
+    peek: () => any
 }
