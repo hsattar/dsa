@@ -24,7 +24,7 @@ describe('Bubble Sort', () => {
         expect(result).toEqual(expectedOutput)
     })
 
-    it('SHOULD RETURN A SORTED ARRAY WHEN PASSED MULTIPLE NUMBERS IN RANDOM ORDER', () => {
+    it.only('SHOULD RETURN A SORTED ARRAY WHEN PASSED MULTIPLE NUMBERS IN RANDOM ORDER', () => {
         const input = [5, 9, 3, 1, 2, 8, 4, 7, 6]
         const expectedOutput = [1, 2, 3, 4, 5, 6, 7, 8, 9]
         const result = bubbleSort(input)

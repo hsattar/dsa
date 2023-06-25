@@ -1,5 +1,5 @@
 {
-  "name": "dsa-assist",
+  "name": "dsa-plus",
   "version": "1.0.0",
   "description": "Data Structures &amp; Algorithms",
   "type": "module",
@@ -15,10 +15,10 @@
   "author": "Hasan Sattar (https://github.com/hsattar)",
   "repository": {
     "type": "git",
-    "url": "https://github.com/hsattar/dsa-assist.git"
+    "url": "https://github.com/hsattar/dsa-plus.git"
   },
   "bugs": {
-    "url": "https://github.com/hsattar/dsa-assist/issues"
+    "url": "https://github.com/hsattar/dsa-plus/issues"
   },
   "license": "MIT",
   "devDependencies": {
