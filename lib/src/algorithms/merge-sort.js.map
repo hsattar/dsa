@@ -1,0 +1,1 @@
+{"version":3,"file":"merge-sort.js","sourceRoot":"","sources":["../../../src/algorithms/merge-sort.ts"],"names":[],"mappings":";;;AAAO,MAAM,SAAS,GAAG,CAAC,KAAe,EAAY,EAAE;IAEnD,MAAM,WAAW,GAAa,EAAE,CAAA;IAEhC,KAAK,IAAI,CAAC,GAAG,CAAC,EAAE,CAAC,GAAG,KAAK,CAAC,MAAM,EAAE,CAAC,EAAE,EAAE;KAEtC;IAED,OAAO,WAAW,CAAA;AACtB,CAAC,CAAA;AATY,QAAA,SAAS,aASrB"}
