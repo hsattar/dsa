@@ -1,11 +1,11 @@
-import { binarySearch } from './algorithms/binary-search'
-import { bubbleSort } from './algorithms/bubble-sort'
-import { insertionSort } from './algorithms/insertion-sort'
-import { linearSearch } from './algorithms/linear-search'
-import { mergeSort } from './algorithms/merge-sort'
-import { selectionSort } from './algorithms/selection-sort'
+import { binarySearch } from './src/algorithms/binary-search'
+import { bubbleSort } from './src/algorithms/bubble-sort'
+import { insertionSort } from './src/algorithms/insertion-sort'
+import { linearSearch } from './src/algorithms/linear-search'
+import { mergeSort } from './src/algorithms/merge-sort'
+import { selectionSort } from './src/algorithms/selection-sort'
 
-import { createStack } from './data-structures/stack'
-import { createQueue } from './data-structures/queue'
+import { createStack } from './src/data-structures/stack'
+import { createQueue } from './src/data-structures/queue'
 
-export default { binarySearch, bubbleSort, insertionSort, linearSearch, mergeSort, selectionSort, createStack, createQueue }
+export { binarySearch, bubbleSort, insertionSort, linearSearch, mergeSort, selectionSort, createStack, createQueue }

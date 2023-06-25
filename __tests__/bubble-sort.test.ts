@@ -1,5 +1,5 @@
 import { describe, it, expect } from 'vitest'
-import { bubbleSort } from "../algorithms/bubble-sort"
+import { bubbleSort } from "../src/algorithms/bubble-sort"
 
 
 describe('Bubble Sort', () => {

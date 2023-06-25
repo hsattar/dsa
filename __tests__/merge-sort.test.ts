@@ -1,5 +1,5 @@
 import { describe, it, expect } from 'vitest'
-import { mergeSort } from "../algorithms/merge-sort"
+import { mergeSort } from "../src/algorithms/merge-sort"
 
 
 describe('Merge Sort', () => {

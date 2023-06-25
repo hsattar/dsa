@@ -1,5 +1,5 @@
 import { describe, it, expect } from 'vitest'
-import { insertionSort } from "../algorithms/insertion-sort"
+import { insertionSort } from "../src/algorithms/insertion-sort"
 
 
 describe('Insertion Sort', () => {

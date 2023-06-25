@@ -1,5 +1,5 @@
 import { describe, it, expect } from 'vitest'
-import { createStack } from "../data-structures/stack"
+import { createStack } from "../src/data-structures/stack"
 
 describe('Create Stack', () => {
 

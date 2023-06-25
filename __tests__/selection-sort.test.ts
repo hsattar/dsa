@@ -1,5 +1,5 @@
 import { describe, it, expect } from 'vitest'
-import { selectionSort } from "../algorithms/selection-sort"
+import { selectionSort } from "../src/algorithms/selection-sort"
 
 
 describe('Selection Sort', () => {

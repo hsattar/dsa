@@ -1,5 +1,5 @@
 import { describe, it, expect } from 'vitest'
-import { linearSearch } from "../algorithms/linear-search"
+import { linearSearch } from "../src/algorithms/linear-search"
 
 
 describe('Linear Search', () => {

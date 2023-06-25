@@ -1,5 +1,5 @@
 import { describe, it, expect } from 'vitest'
-import { createQueue } from "../data-structures/queue"
+import { createQueue } from "../src/data-structures/queue"
 
 describe('Create Queue', () => {
 
